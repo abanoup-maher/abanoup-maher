@@ -69,25 +69,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="Entity Framework Logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="LINQ Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET MVC Logo" />
+
 
 </div>
 
 ###
 
-###
-
-<h3 align="left">🔥   View Profile :</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/makaruos-mekhail/count.svg?"  />
-</div>
-
-###
 
 <h3 align="left">🔥   SOFT SKILLS  :</h3>
 
