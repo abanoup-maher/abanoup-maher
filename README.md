@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🔭 Currently, I am deeply engaged in Angular, HTML5 & CSS3, and TypeScript, leveraging my skills to craft dynamic web applications.<br><br>🌱 Concurrently, I am immersing myself in learning Figma for designing captivating landing pages, websites, and e-commerce platforms, focusing on enhancing user interface and user experience (UI & UX).<br><br>📝 My primary goal is to construct code in a structured, emphasizing clean code principles to ensure maintainability and scalability.<br><br>📫 Please feel free to contact me at makaruosmekhail@gmail.com.</p>
+<p align="left">🔭 Currently, I am deeply engaged in .net & Angular, HTML5 & CSS3, TypeScript, javascript angular , c# , sql , linq , entity framework , asp.net mvc and asp.net web api leveraging my skills to craft dynamic web applications.<br><br>📝 My primary goal is to construct code in a structured, emphasizing clean code principles to ensure maintainability and scalability.<br><br>📫 Please feel free to contact me at abanoup_maher@yahoo.com</p>
 
 ###
 
@@ -44,8 +44,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
+<img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
