@@ -35,11 +35,6 @@
 
 <h2 align="center">Fullstack .net developer</h2>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">Hi 👋, I'm Abanoup Maher</h3>
 
