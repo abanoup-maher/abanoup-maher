@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://t3.ftcdn.net/jpg/06/08/02/00/360_F_608020087_svNbVvmlr6a9x7rVJdVPaDTUVFH5P9Ve.jpg"  />
+  <img height="200" width="500" src="https://t3.ftcdn.net/jpg/06/08/02/00/360_F_608020087_svNbVvmlr6a9x7rVJdVPaDTUVFH5P9Ve.jpg"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="center">Frontend Angular Developer</h2>
+<h2 align="center">Fullstack .net developer</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">Hi 👋, I'm makaruos mekahil</h3>
+<h3 align="left">Hi 👋, I'm Abanoup Maher</h3>
 
 ###
 
