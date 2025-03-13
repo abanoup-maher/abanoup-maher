@@ -2,14 +2,15 @@
   <img height="200" width="500" src="https://t3.ftcdn.net/jpg/06/03/27/02/360_F_603270285_nP1pFSmq0TwMCHJfdJe8zTGL4VkduZFM.jpg"  />
 </div>
 
-###
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+###
+
 
 <h3 align="center">
   Welcome to Yousef Abanoup's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
